@@ -1,0 +1,11 @@
+C:\Users\VALDEZ GAMING\source\repos\ProyectoFinal ConstruccionArquitectura\ProyectoFinal ConstruccionArquitectura\bin\Debug\ProyectoFinal ConstruccionArquitectura.exe.config
+C:\Users\VALDEZ GAMING\source\repos\ProyectoFinal ConstruccionArquitectura\ProyectoFinal ConstruccionArquitectura\bin\Debug\ProyectoFinal ConstruccionArquitectura.exe
+C:\Users\VALDEZ GAMING\source\repos\ProyectoFinal ConstruccionArquitectura\ProyectoFinal ConstruccionArquitectura\bin\Debug\ProyectoFinal ConstruccionArquitectura.pdb
+C:\Users\VALDEZ GAMING\source\repos\ProyectoFinal ConstruccionArquitectura\ProyectoFinal ConstruccionArquitectura\obj\Debug\ProyectoFinal ConstruccionArquitectura.csproj.AssemblyReference.cache
+C:\Users\VALDEZ GAMING\source\repos\ProyectoFinal ConstruccionArquitectura\ProyectoFinal ConstruccionArquitectura\obj\Debug\ProyectoFinal_ConstruccionArquitectura.Form1.resources
+C:\Users\VALDEZ GAMING\source\repos\ProyectoFinal ConstruccionArquitectura\ProyectoFinal ConstruccionArquitectura\obj\Debug\ProyectoFinal_ConstruccionArquitectura.frmMostrarListas.resources
+C:\Users\VALDEZ GAMING\source\repos\ProyectoFinal ConstruccionArquitectura\ProyectoFinal ConstruccionArquitectura\obj\Debug\ProyectoFinal_ConstruccionArquitectura.Properties.Resources.resources
+C:\Users\VALDEZ GAMING\source\repos\ProyectoFinal ConstruccionArquitectura\ProyectoFinal ConstruccionArquitectura\obj\Debug\ProyectoFinal ConstruccionArquitectura.csproj.GenerateResource.cache
+C:\Users\VALDEZ GAMING\source\repos\ProyectoFinal ConstruccionArquitectura\ProyectoFinal ConstruccionArquitectura\obj\Debug\ProyectoFinal ConstruccionArquitectura.csproj.CoreCompileInputs.cache
+C:\Users\VALDEZ GAMING\source\repos\ProyectoFinal ConstruccionArquitectura\ProyectoFinal ConstruccionArquitectura\obj\Debug\ProyectoFinal ConstruccionArquitectura.exe
+C:\Users\VALDEZ GAMING\source\repos\ProyectoFinal ConstruccionArquitectura\ProyectoFinal ConstruccionArquitectura\obj\Debug\ProyectoFinal ConstruccionArquitectura.pdb
