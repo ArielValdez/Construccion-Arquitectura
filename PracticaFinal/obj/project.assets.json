@@ -8,26 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\RedBeast\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\VALDEZ GAMING\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\User\\Documents\\GitHub\\Construccion-Arquitectura\\PracticaFinal\\PracticaFinal.csproj",
+      "projectUniqueName": "C:\\Users\\VALDEZ GAMING\\Documents\\GitHub\\Construccion-Arquitectura\\PracticaFinal\\PracticaFinal.csproj",
       "projectName": "PracticaFinal",
-      "projectPath": "D:\\User\\Documents\\GitHub\\Construccion-Arquitectura\\PracticaFinal\\PracticaFinal.csproj",
-      "packagesPath": "C:\\Users\\RedBeast\\.nuget\\packages\\",
-      "outputPath": "D:\\User\\Documents\\GitHub\\Construccion-Arquitectura\\PracticaFinal\\obj\\",
+      "projectPath": "C:\\Users\\VALDEZ GAMING\\Documents\\GitHub\\Construccion-Arquitectura\\PracticaFinal\\PracticaFinal.csproj",
+      "packagesPath": "C:\\Users\\VALDEZ GAMING\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\VALDEZ GAMING\\Documents\\GitHub\\Construccion-Arquitectura\\PracticaFinal\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\RedBeast\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\VALDEZ GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -62,15 +55,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
